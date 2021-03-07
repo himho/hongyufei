@@ -27,5 +27,5 @@ jobs:
         with:
           source_repo: "https://github.com/hongyunfei/jd_scripts"
           source_branch: "master"
-          destination_branch: "hongyufei-sync"
+          destination_branch: "hongyufei"
           github_token: ${{ secrets.PAT }}
